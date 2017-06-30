@@ -1,5 +1,5 @@
 # esp32_ST7735_Movie
-![Movie](doc/Movie.jpg)
+![Movie](doc/Movie.JPG)
 
 ## Prepare
 - [ESP32-DevKitC](http://akizukidenshi.com/catalog/g/gM-11819/) ESP32 : 秋月電子
@@ -15,10 +15,10 @@
 - [arduino-esp32](https://github.com/espressif/arduino-esp32)
 
 ## How to play Movie
-In your PC, drag and drog a avi file into MovieToArray/MovieToArray.exe 
+- In your PC, drag and drog a avi file into MovieToArray/MovieToArray.exe.<br>
 ![MovieToArray](doc/MovieToArray.jpg)
-And you can get a dat file.  Put the file into a SD card and set it to the slot.
-You can play the dat file on Serial Monitor.
+- You can get a dat file.  Put the file into a SD card and set it to the slot.
+- You can play the dat file on Serial Monitor.<br>
 ![SerialMonitor](doc/SerialMonitor.jpg)
 
 ## About MovieToArray.exe
