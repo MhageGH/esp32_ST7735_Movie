@@ -14,6 +14,9 @@
 - [Arduino IDE](https://www.arduino.cc/en/main/software)
 - [arduino-esp32](https://github.com/espressif/arduino-esp32)
 
+## Library
+- [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
+
 ## How to play Movie
 - In your PC, drag and drog a avi file into MovieToArray/MovieToArray.exe.<br>
 ![MovieToArray](doc/MovieToArray.jpg)
